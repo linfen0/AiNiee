@@ -301,4 +301,3 @@ class window(FramelessWindow): #主窗口 v
             event.accept()
         else:
             event.ignore()
-
